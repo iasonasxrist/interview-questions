@@ -6,7 +6,6 @@ A simple Todo List application built with React.js and Tailwind CSS.
 
 - Add new tasks to the list.
 - Mark tasks as completed.
-- Filter tasks by completion status (All, Active, Completed).
 - Clear completed tasks.
 
 ## Technologies Used
