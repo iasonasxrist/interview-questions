@@ -20,6 +20,8 @@ Follow these instructions to get the Todo List app up and running on your local 
 ### Prerequisites
 
 - Node.js and npm (Node Package Manager) installed on your machine.
+  ```bash
+  npm install -g npm
 
 ### Installation
 
